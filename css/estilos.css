@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+
+.container{
+    background-color: darkblue;
+    margin:auto;
+    padding:10px;
+
+}
+h1{
+    color:#ffffff;
+    font-family: 'roboto',sans-serif;
+    size: 25px;
+    text-align: center;
+}
